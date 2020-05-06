@@ -6,7 +6,6 @@ The COVID-19 pandemic as changed how people arouond the world live their daily l
 
 #### Data Sources: 
 * Harvard and MIT courses offered by EdX (one .csv from Kaggle): https://www.kaggle.com/edx/course-study
-* Coursea course categories (one .csv from Kaggle): https://www.kaggle.com/mihirs16/coursera-course-data
 * Coursea course descriptions (one .csv from Kaggle): https://www.kaggle.com/mihirs16/coursera-course-data
 * List of MOOCs: https://en.wikipedia.org/wiki/List_of_MOOC_providers
 * Attributes of Common MOOCs: https://en.wikipedia.org/wiki/Massive_open_online_course
