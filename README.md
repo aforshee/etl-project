@@ -22,9 +22,17 @@ The COVID-19 pandemic as changed how people around the world live their daily li
 * List of MOOCs (FK: MOOC)
 * MOOC Attributes (FK: MOOC)
 * YouTube Video Categories (PK & FK: CategoryID)
+    -Created unique list of categories and category codes from YouTube Video Category IDs dataset
+    -Loaded into new dataframe
 * YouTube Countries (PK & FK: CountryCode)
+    -Created unique list of countries and country codes from YouTube Video Category IDs dataset
+    -Loaded into new dataframe
 * YouTube Video Data (FKs: CategoryID & CountryCode)
+    -Cleaned date columns from YouTube Video Statistics dataset
+    -Loaded into new dataframe
 * Master Category Table for YouTube and MOOCs (PK & FK: Master Category)
+    -Created unique list of categories (Youtube Video Category IDs dataset) and tags (TEDtalk dataset)
+    -Loaded into new dataframe
 
 ## Step 3 - Load
 
