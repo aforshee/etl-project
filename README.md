@@ -39,3 +39,5 @@ The COVID-19 pandemic as changed how people around the world live their daily li
 1. Create database structure: quickdatabasediagrams.com
 2. Create the "online_ed" using PostgreSQL
 3. Use the table structures extracted from quickdatabasediagrams.com to define the structure of the database
+
+![DBD](Final/Images/ETL_DBD.png)
