@@ -10,7 +10,7 @@ The COVID-19 pandemic has changed how people around the world live their daily l
 * Attributes of Common MOOCs: https://en.wikipedia.org/wiki/Massive_open_online_course
 * YouTube Video Statistics for 10 Countries (.csv from Kaggle): https://www.kaggle.com/datasnaek/youtube-new
 * YouTube Video Category IDs for 10 Countries (.json from Kaggle): https://www.kaggle.com/datasnaek/youtube-new
-* Ted Talks: INSERT LINK HERE
+* Ted Talks: https://data.world/owentemple/ted-talks-complete-list
 
 1. Read the .csv files with Pandas read_csv()
 2. Read the .json files with Pandas read_json()
